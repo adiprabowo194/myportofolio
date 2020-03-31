@@ -1450,8 +1450,9 @@ p.custom-field-class
 /* my style */
 
 a img.logo_website{
-    width:240px;
+    width:220px;
     padding:0;
+    margin-bottom: 0;
 }
 p.entry-title{
     width:1000px;
