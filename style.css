@@ -1451,4 +1451,8 @@ p.custom-field-class
 
 a img.logo_website{
     width:100px;
+    padding:0;
+}
+p.entry-title{
+    width:1000px;
 }
